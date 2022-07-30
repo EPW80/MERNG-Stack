@@ -1,15 +1,13 @@
-# Interactive MERN SPA Project
+# MERNG Stack
 
 This project is a social media app where users can share their thoughts as well as images with other users. Users are able to create, update, and delete posts. This application uses Graphql, Mongo, Express, React, and Node for a true realtime web application. Frontend uses latest Hooks from React, React Router and Apollo Client for performing Queries, Mutations and Subscriptions. This Project also utilizes React Hooks including Context API to achieve Redux like architecture.
 
 - #### Heroku Deployment from EPW80 [here](https://gql-client-epw.herokuapp.com/profile)
-- #### Heroku Deployment from angel351 [here](https://gql-client-angel.herokuapp.com/)
-- #### Heroku Deployment from Anchoviess [here](https://gql-client-kalo.herokuapp.com/)
 
 - Test User Credentials
     - Click on **`Login`** for Testing
 
-- #### Github Repository [link](https://github.com/EPW80/Interactive-MERN-SPA-Project)
+- #### Github Repository [link](https://github.com/EPW80/MERNG-Stack.git)
 
 ### Technology and Modules used for this Project
 
@@ -32,8 +30,7 @@ This project is a social media app where users can share their thoughts as well 
 ### Website Preview
 
 ![screenshot](./client/public/erikshot.png)
-![screenshot](./client/public/anthonyshot.png)
-![screenshot](./client/public/angelshot.jpg)
+
 
 
 ### TODO:
@@ -45,21 +42,13 @@ This project is a social media app where users can share their thoughts as well 
 
 ---
 
-## Collaborators
+## Contributer
 
 Erik Williams
-<br>
-Anthony Ledesma
-<br>
-Angel Sandoval
+
 
 Please feel free to contact me if you need any further information:
 
 - [Erik Williams](erikparrawilliams@gmail.com)
 - [Github Profile](https://github.com/EPW80)
-    <br>
-- [Anthony Ledesma](anthonyledesma12@yahoo.com)
-- [Github Profile](https://github.com/Anchoviess)
-    <br>
-- [Angel Sandoval](sandovalangel10@hotmail.com)
-- [Github Profile](https://github.com/angel351)
+
